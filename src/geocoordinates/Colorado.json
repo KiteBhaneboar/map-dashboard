@@ -1,0 +1,45 @@
+
+ {
+  "type": "geojson",
+  "data": {
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "description": "Colorado (my aunt and uncle live here)"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -109.06367,
+                41.036183
+              ],
+              [
+                -102.011666,
+                40.992923
+              ],
+              [
+                -102.040333,
+                36.984087
+              ],
+              [
+                -109.06367,
+                37.006982
+              ],
+              [
+                -109.06367,
+                41.036183
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": "4310a42a4c60ab73564a265340cdc417"
+      }
+    ],
+    "type": "FeatureCollection"
+  }
+ }
+
+
